@@ -1,0 +1,6 @@
+export const INCREMENT="INCREMENT";
+export const DECREMENT="DECREMENT";
+export const RESET="RESET";
+
+
+// TYPES OF ACTIONS === EVENT LISTENER == UPDATER
