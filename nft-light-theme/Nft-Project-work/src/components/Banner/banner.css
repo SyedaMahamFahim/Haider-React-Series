@@ -1,0 +1,22 @@
+.banner__div{
+    margin-top: 200px;
+}
+.banner__h1{
+    font-size: 60px;
+}
+
+.banner__btn{
+    padding: 10px 24px;
+    background-color: rgb(45, 115, 255);
+    border: none;
+    border-radius: 14px;
+    color: white;
+    max-width: "200px";
+    font-weight: bold;
+}
+.banner__img{
+    width: auto;
+    max-height: 318px;
+    margin: 0 auto;
+    display: flex;
+}

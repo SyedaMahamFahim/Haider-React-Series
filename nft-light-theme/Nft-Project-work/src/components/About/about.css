@@ -1,0 +1,20 @@
+.about__main_div{
+    margin-top: 80px;
+}
+.about__div{
+    padding: 60px 0px;
+    width: 600px;
+}
+.about__h5{
+    text-align: center;
+    color: grey;
+}
+.about__h1{
+    font-weight: bold;
+    text-align: center;
+}
+.about__p{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: justify;
+}
